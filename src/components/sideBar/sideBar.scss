@@ -1,0 +1,60 @@
+@import "../../global.scss";
+
+
+.side-bar{
+    position: fixed;
+    top: 0;
+    left:-50px;
+    height: 100vh;
+    width: 20rem;
+    z-index: 10000;
+
+    &.active {
+        right: 0;
+        box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.7);
+    }
+
+    #close-side-bar{
+        position: absolute;
+        top: 1rem;
+        right: 2rem;
+        font-size: 2rem;
+        color: $blue;
+        cursor: pointer;
+
+        &:hover{
+            transform: rotate(180deg);
+        }
+    }
+
+    .user{
+        padding: 2rem;
+        background-color: $white;
+        text-align: center;
+
+
+    }
+
+    .navbar{
+        margin-top: .5rem;
+        padding-left: 2rem;
+        a{
+            display: block;
+            padding: 1rem 2rem;
+            margin-top: 1rem;
+            font-size: 1.1rem;
+            color: $black;
+            text-decoration: none;
+            &:hover{
+                color: $blue;
+                i{
+                    padding-right: 1rem;
+                }
+            }
+            i{
+                padding-right: .5rem;
+            }
+        }
+    }
+
+}

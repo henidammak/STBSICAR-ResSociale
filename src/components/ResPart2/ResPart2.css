@@ -1,0 +1,109 @@
+#table {
+  border-radius: 10px;
+  background: linear-gradient(120deg, rgb(124, 132, 151), rgb(15%, 20%, 32%));
+  width: 80rem;
+  height: 28rem;
+  margin-top: 40px;
+  margin-bottom: 10rem;
+  margin-left: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.tab-g {
+  padding-left: 5rem;
+  padding-top: 5rem;
+  color: white;
+}
+.tab-d {
+  margin-top: 50px;
+  padding-top: 5rem;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  color: white;
+}
+
+.tab-g-title {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#table-2 {
+  border-radius: 10px;
+  background: linear-gradient(120deg, rgb(15%, 20%, 32%), rgb(124, 132, 151));
+  width: 80rem;
+  height: 37rem;
+  margin-top: 40px;
+  margin-bottom: 10rem;
+  margin-left: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.tab-d-2 {
+  margin-top: 100px;
+  padding-top: 5rem;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  color: white;
+}
+
+#table-3 {
+  border-radius: 10px;
+  background: linear-gradient(120deg, rgb(124, 132, 151), rgb(15%, 20%, 32%));
+  width: 80rem;
+  height: 28rem;
+  margin-top: 40px;
+  margin-bottom: 10rem;
+  margin-left: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#table-4 {
+  border-radius: 10px;
+  background: linear-gradient(120deg, rgb(15%, 20%, 32%), rgb(124, 132, 151));
+  width: 80rem;
+  height: 37rem;
+  margin-top: 40px;
+  margin-bottom: 10rem;
+  margin-left: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+#table-5 {
+  border-radius: 10px;
+  background: linear-gradient(120deg, rgb(124, 132, 151), rgb(15%, 20%, 32%));
+  width: 80rem;
+  height: 34rem;
+  margin-top: 40px;
+  margin-bottom: 10rem;
+  margin-left: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+#table-6 {
+  border-radius: 10px;
+  background: linear-gradient(120deg, rgb(15%, 20%, 32%), rgb(124, 132, 151));
+  width: 80rem;
+  height: 28rem;
+  margin-top: 40px;
+  margin-bottom: 10rem;
+  margin-left: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+#table-7 {
+  border-radius: 10px;
+  background: linear-gradient(120deg, rgb(124, 132, 151), rgb(15%, 20%, 32%));
+  width: 80rem;
+  height: 34rem;
+  margin-top: 40px;
+  margin-bottom: 10rem;
+  margin-left: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+.carte {
+  width: 50rem;
+}
